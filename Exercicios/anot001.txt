@@ -1,0 +1,3 @@
+driver cd rw - PLEXTOR PX-W4012TA
+
+driver de HD - IC35L040AVVA007-7
