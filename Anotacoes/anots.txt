@@ -1,0 +1,21 @@
+a bios e a intermediaria entre componentes que não sao da placa mãe e a própria placa, se algum comp. estiver conectado mas não aparecer na bios, logo ele não aparecerá para o SO (entao configure esse comp. na bios)
+
+
+
+
+
+bips longos e espaçados signicam geralmente problema de memória, mas também pode ser problema na placa mãe
+
+
+
+
+
+
+hds com defeitos em que é recomendável trocar, podem apresentar sintomas como corrompimento de arquivos, travamentos curtos, travamentos em que é preciso desligar e ligar de novo, estalos dentro do computador
+
+
+
+
+
+
+um processador defeituoso é causa frequentes de travamento no computador
